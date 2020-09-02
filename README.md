@@ -1,1 +1,1 @@
-##  传智播客支付 java sdk
+## java sdk
